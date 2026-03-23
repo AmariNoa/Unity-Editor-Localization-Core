@@ -1,0 +1,16 @@
+{
+    "name": "com.amari-noa.unity-editor-localization-core.editor",
+    "rootNamespace": "com.amari_noa.unity_editor_localization_core.editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
