@@ -1,7 +1,7 @@
 {
   "name": "com.amari-noa.unity-editor-localization-core",
   "displayName": "Unity Editor Localization Core",
-  "version": "0.1.0-alpha.0",
+  "version": "1.0.0",
   "unity": "2022.3",
   "description": "Reusable localization infrastructure for Unity Editor tools and packages, featuring source registration, language switching, fallback resolution, JSON loading, and validation diagnostics.",
   "author": {
